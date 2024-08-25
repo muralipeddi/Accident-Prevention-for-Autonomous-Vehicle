@@ -4,4 +4,4 @@
 4) To avoid a collision between the vehicle and the obstacle, the vehicle must first recognize the obstruction. We can do this by using an ultrasonic sensor that can detect any barrier in front of it.  
 5) We can utilize infrared sensors to detect lanes or boundaries. IR sensors can detect white lanes on roads which helps the vehicle to be on road without getting off the road. These IR sensors also detect obstacles coming from sideways of the vehicle. 
 6) This design helps us to travel from one place to another place in a single-lane road and helps us in preventing accidents. IR sensors can be used to detect the white lanes on black roads as IR sensors can differentiate black and white colours. But these IR sensors cannot be used for lane detection during the night times. This project only deals with accident prevention from collisions/crashes  using Ultrasonic and IR sensors.
-7) ![image](https://github.com/user-attachments/assets/cc9ab635-c217-4705-829b-f5319c7bbbda)
+![image](https://github.com/user-attachments/assets/cc9ab635-c217-4705-829b-f5319c7bbbda)
